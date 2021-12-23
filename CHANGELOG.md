@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.1.0
+
+### Minor Changes
+
+- [#128](https://github.com/changesets/action/pull/128) [`1937303`](https://github.com/changesets/action/commit/19373036c4bad4b0183344b6f2623a3b0e42da6c) Thanks [@dhruvdutt](https://github.com/dhruvdutt)! - Setup the git user in the local config instead of the global one.
+
 ## 1.0.0
 
 ### Major Changes
